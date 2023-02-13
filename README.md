@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+A Calculadora de Gorjetas e um app simples para calculo da gorjeta de uma ou mais pessoas em relação a qualidade do serviço prestado.
 
 - [Acesse o projeto finalizado, online](https://abilioaga.github.io/CalculadoraDeGorjetas/)
 
